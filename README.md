@@ -1,2 +1,13 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Задание 1:
+
+реализовать класс Drawer, который умеет рисовать в консоли фигуры -
+прямую линию, прямоугольник и квадрат заданным символом, при помощи функции
+print.
+
+## Задание 2:
+
+реализовать класс DrawerProvider, который может создавать и возвращать объект 
+Drawer с параметрами, заданными в DrawerProvider.
+
+## Как запустить
+``dart run bin/dart_learn.dart``
